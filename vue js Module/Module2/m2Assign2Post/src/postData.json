@@ -1,0 +1,39 @@
+{
+    "Posts": [
+        {
+            "Id": 1,
+            "PostName": "post1",
+            "PostDescription": "post1 Description",
+            "Date": "22/01/2023",
+            "PostedImage": "https://media.istockphoto.com/id/621603944/photo/beautiful-teenage-girl.jpg?s=612x612&w=0&k=20&c=p9e5SFhooPXyv0QuIvxxpstwVqADywMM09uftuUV0VI="
+        },
+        {
+            "Id": 2,
+            "PostName": "post2",
+            "PostDescription": "post2 Description",
+            "Date": "22/02/2023",
+            "PostedImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+        },
+        {
+            "Id": 3,
+            "PostName": "post3",
+            "PostDescription": "post3 Description",
+            "Date": "27/01/2023",
+            "PostedImage": "https://media.istockphoto.com/id/1320491325/photo/portrait-of-a-bespectacled-indian-young-man-looking-at-the-camera.jpg?b=1&s=170667a&w=0&k=20&c=YmdyWnCCFkGEoTcqbw8SPWzQIfTQfGuWPXqVsKuJ4dk="
+        },
+        {
+            "Id": 4,
+            "PostName": "post4",
+            "PostDescription": "post4 Description",
+            "Date": "04/03/2023",
+            "PostedImage": "https://images.healthshots.com/healthshots/en/uploads/2020/12/08182549/positive-person.jpg"
+        },
+        {
+            "Id": 5,
+            "PostName": "post5",
+            "PostDescription": "post5 Description",
+            "Date": "17/05/2023",
+            "PostedImage": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg"
+        }
+    ]
+}

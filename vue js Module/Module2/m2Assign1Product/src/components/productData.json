@@ -1,0 +1,9 @@
+{
+    "product":[
+    {"ProductName": "iPhone", "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ", "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-model-unselect-gallery-2-202207_GEO_EMEA?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1654893618122", "Price": 70000, "Quantity": 5},
+        {"ProductName": "OPPOF19", "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit.", "image":"https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2021/03/1.jpg?ssl=1&quality=80&w=f", "Price":10000, "Quantity": 12},
+        {"ProductName": "Laptop", "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ", "image":"https://surejob.in/wp-content/uploads/2022/05/Apple-McBook-Air.jpg", "Price": 40000, "Quantity": 25},
+        {"ProductName": "Shoes", "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ", "image":"https://images.pexels.com/photos/19090/pexels-photo.jpg?cs=srgb&dl=pexels-web-donut-19090.jpg&fm=jpg", "Price": 1000, "Quantity": 7},
+        {"ProductName": "Tablet", "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. .", "image":"https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?cs=srgb&dl=pexels-josh-sorenson-1334597.jpg&fm=jpg", "Price": 20000, "Quantity": 10}
+    ]
+}
