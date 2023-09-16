@@ -1,0 +1,35 @@
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+.navbar{
+background-color: #63b2d6;
+}
+.button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.3em 2.0em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #4fb1df;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  border-color: #169be7;
+}
+.button:hover {
+  border-color: #646cff;
+  background-color: #34ade6;
+
+}
+.button:focus,
+.button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+
+/* Create */
+.createform{
+background-color: #a8cee0;
+border-radius: 20px;
+}

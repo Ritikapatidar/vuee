@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Neha Raj",
+    "age": 22,
+    "clg": "MIT",
+    "img": "https://raajratna.com/wp-content/uploads/2019/01/person2.jpg",
+    "Fees":10000,
+    "Result":{"Grade":"A+", "Marks":92}
+  },
+  {
+    "id": 2,
+    "name": "Raj Sharma",
+    "age": 24,
+    "clg": "GTU",
+    "img": "https://masston.co.za/wp-content/uploads/2019/01/person6.jpg",
+    "Fees":20000,
+    "Result":{"Grade":"A", "Marks":85}
+  },
+  {
+    "id": 3,
+    "name": "Lata Shah",
+    "age": 23,
+    "clg": "GTU",
+    "img": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+    "Fees":30000,
+    "Result":{"Grade":"B", "Marks":70}
+  },
+  {
+    "id": 4,
+    "name": "Aarti Lutra",
+    "age": 24,
+    "clg": "MIT",
+    "img": "https://masston.co.za/wp-content/uploads/2019/01/person5.jpg",
+    "Fees":40000,
+    "Result":{"Grade":"C", "Marks":60}
+  }
+]
